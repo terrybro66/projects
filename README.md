@@ -59,3 +59,59 @@ Git Message: "Perform comprehensive testing for compatibility and performance"
 ### Step 15: Refine the UI/UX, optimize performance, and clean up the codebase.
 
 Git Message: "Refine UI/UX, optimize performance, and clean up codebase"
+
+## 2. Crime Rate
+### Step 1: Set up a new React project and install necessary dependencies
+
+Git Message: "Initialize React project and install dependencies for map visualization"
+
+### Step 2: Define the application's file structure, separating concerns such as components, utilities, and data services.
+
+Git Message: "Define project file structure for components, utilities, and data services"
+
+## 3. Flight Map
+### Step 1: Set up a new React project and install necessary dependencies
+
+Git Message: "Initialize React project and install dependencies for map visualization"
+
+### Step 2: Define the application's file structure, separating concerns such as components, utilities, and data services.
+
+Git Message: "Define project file structure for components, utilities, and data services"
+
+## 4. Sentiment
+### Step 1: Set up a new React project and install necessary dependencies
+
+Git Message: "Initialize React project and install dependencies for map visualization"
+
+### Step 2: Define the application's file structure, separating concerns such as components, utilities, and data services.
+
+Git Message: "Define project file structure for components, utilities, and data services"
+
+## 5. Maze
+
+### Step 1: Set up a new React project and install necessary dependencies
+
+Git Message: "Initialize React project and install dependencies for map visualization"
+
+### Step 2: Define the application's file structure, separating concerns such as components, utilities, and data services.
+
+Git Message: "Define project file structure for components, utilities, and data services"
+
+## 6. Train-routes
+
+### Step 1: Set up a new React project and install necessary dependencies
+
+Git Message: "Initialize React project and install dependencies for map visualization"
+
+### Step 2: Define the application's file structure, separating concerns such as components, utilities, and data services.
+
+Git Message: "Define project file structure for components, utilities, and data services"
+
+## 7. Tube Map
+### Step 1: Set up a new React project and install necessary dependencies
+
+Git Message: "Initialize React project and install dependencies for map visualization"
+
+### Step 2: Define the application's file structure, separating concerns such as components, utilities, and data services.
+
+Git Message: "Define project file structure for components, utilities, and data services"
